@@ -1,4 +1,4 @@
--- Create a table in database
+-- Create a table in database in the database hbtn_0c_0 and inserts multiple rows
 CREATE TABLE if NOT EXISTS second_table(
     id INT
     name VARCHAR(256), 
